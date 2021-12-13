@@ -1,0 +1,47 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+12,Upernavik,GL,6.12,overcast clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
+19,Tigil,RU,19.83,overcast clouds,57.8,158.6667,Tigil'
+25,Taonan,CN,16.65,clear sky,45.3333,122.7833,Makro Hotel
+31,Ilulissat,GL,19.42,scattered clouds,69.2167,-51.1,Hotel Arctic
+46,Nanortalik,GL,24.13,overcast clouds,60.1432,-45.2371,Hotel Kap Farvel
+54,Yellowknife,CA,7.32,light snow,62.456,-114.3525,The Explorer Hotel
+57,Berezovyy,RU,18.34,overcast clouds,51.6667,135.7,"Hotel ""Phoenix"""
+70,Korla,CN,17.35,scattered clouds,41.7597,86.1469,Gulisitan Hotel
+78,Kodiak,US,11.71,clear sky,57.79,-152.4072,Best Western Kodiak Inn And Convention Center
+103,Homer,US,12.07,clear sky,59.6425,-151.5483,Beluga Lake Lodge
+155,Paamiut,GL,12.16,scattered clouds,61.994,-49.6678,Pistut
+162,Hami,CN,22.23,few clouds,42.8,93.45,Laoyutang Resort
+166,Narsaq,GL,16.02,broken clouds,60.9167,-46.05,Sleep In Narsaq
+183,Yanji,CN,22.69,clear sky,42.9075,129.5078,Holiday Inn Changbaishan Suites
+216,Watrous,CA,22.78,scattered clouds,51.6668,-105.4679,Manitou Hotel
+279,Ulagan,RU,17.51,light snow,50.6321,87.9563,Gostevoy Dom
+290,Anchorage,US,8.64,clear sky,61.2181,-149.9003,Hotel Captain Cook
+299,Sisimiut,GL,16.0,few clouds,66.9395,-53.6735,Hotel Sisimiut
+327,Khilok,RU,17.71,overcast clouds,51.3674,110.4676,"Gostevoy Dom ""Magnit"""
+350,Hovd,MN,10.04,broken clouds,48.0056,91.6419,Hotel Khovd
+351,Suoyarvi,RU,22.6,light snow,62.0833,32.35,Mini-Hotel Comfort
+354,Nikolskoye,RU,24.8,snow,59.7035,30.7861,Tourist House - Sablino
+409,Khuzhir,RU,24.39,overcast clouds,53.1939,107.3397,Отель на озере Байкал Baikal View
+411,Slavyanka,RU,23.27,clear sky,42.8633,131.3847,"Gostevoy Dom, ""Nattalika"""
+417,Usinsk,RU,10.04,overcast clouds,65.9939,57.5281,Dobro Pozhalovaty
+423,Oktyabrskiy,RU,9.37,few clouds,54.4815,53.471,Уязы-Тау гостиница
+453,Bor,RU,15.73,overcast clouds,56.3567,44.0669,Oktyabrskaya Hotel
+467,Melfort,CA,19.53,overcast clouds,52.8667,-104.6177,Carra Valla Inn
+477,Vanderhoof,CA,18.75,overcast clouds,54.0166,-124.0198,Vanderhoof Inn
+494,Kouqian,CN,19.49,clear sky,43.6391,126.4578,Guotai Bathing Hotel
+507,Prince George,CA,20.62,few clouds,53.9166,-122.753,Canadas Best Value Inn Prince George
+516,Changji,CN,7.59,broken clouds,44.0167,87.3167,Lvye Holiday Resort
+542,Mayna,RU,15.19,scattered clouds,54.1135,47.6231,Gostinnitsa
+576,Aksu,CN,21.87,few clouds,41.1231,80.2644,Pudong Holiday Hotel
+585,Shubarkuduk,KZ,16.32,clear sky,49.1447,56.4872,Sirius
+596,Lanzhou,CN,24.08,clear sky,36.0564,103.7922,Lanzhou Amdo Xiangbala Hotel
+622,Longfeng,CN,12.42,broken clouds,46.55,125.1167,Daqing Langtaosha Hotspring Holiday Resort
+627,Bulgan,MN,17.98,clear sky,48.8125,103.5347,Unitel Булган салбар
+633,Birjand,IR,23.47,clear sky,32.8663,59.2211,Birjand Tourist Hotel
+640,Slave Lake,CA,8.58,broken clouds,55.2834,-114.769,Super 8 by Wyndham Slave Lake AB
+658,Aktash,RU,9.64,light snow,50.3,87.7333,Yolki Zelonyye
+666,Zhanaozen,KZ,21.45,clear sky,43.3,52.8,K.korabay 28A
+679,Leh,IN,9.09,broken clouds,34.1667,77.5833,Hotel Ladakh Greens
+682,Hailar,CN,12.07,broken clouds,49.2,119.7,Holiday Inn & Suites Hulunbuir
+691,Kovdor,RU,24.31,overcast clouds,67.5662,30.4758,Derevo Zhelaniy
+702,Troitsko-Pechorsk,RU,6.28,overcast clouds,62.7084,56.1964,Pechora Gostinitsa
